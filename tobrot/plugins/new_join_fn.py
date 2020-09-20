@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""welcome to Royal_Turd's leech group""", disable_web_page_preview=True)
+    await message.reply_text("""welcome to Royal_Turd's leech group \n And also don't forget to read this : <a href="https://t.me/rtleech/298">How to use </a>""", disable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):
